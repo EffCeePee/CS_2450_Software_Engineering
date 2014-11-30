@@ -1,0 +1,51 @@
+Please enter the file path to the Media File: Please enter the file path to the Patron File: 
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Please enter patron type: all(1), adult(2), child(3) Patron 25
+Patron 26
+Patron 27
+Patron 28
+Patron 29
+Patron 30
+Patron 31
+Patron 32
+Patron 33
+Patron 34
+Patron 35
+Patron 36
+Patron 37
+Patron 38
+Patron 39
+Patron 40
+Patron 41
+Patron 42
+Patron 43
+Patron 44
+Patron 45
+Patron 46
+Patron 47
+Patron 48
+Patron 49
+Patron 50
+Patron 51
+Patron 52
+
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Press any key to continue . . . 

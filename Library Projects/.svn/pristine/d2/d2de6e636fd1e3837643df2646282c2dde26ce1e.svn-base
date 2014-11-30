@@ -1,0 +1,26 @@
+Please enter the file path to the Media File: Please enter the file path to the Patron File: 
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Please enter media type: all(1), adult(2), childrens(3), dvd(4), videotape(5): 
+Please enter media status: all(1), available(2), checkedout(3), overdue(4): (overdue) - DVD 1
+(overdue) - Videotape 1
+
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Press any key to continue . . . 

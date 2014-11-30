@@ -1,0 +1,36 @@
+Please enter the file path to the Media File: Please enter the file path to the Patron File: 
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Please enter media name: 
+Please enter patron name: 
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Please enter the Patron's name: CBook 6
+
+LIBRARY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+-1-  Checkout Book
+-2-  Checkin Book
+-3-  Display Media List
+-4-  Display Patron List
+-5-  Display Patron's Media
+-6-  Increment Date
+-7-  Save and Quit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Please enter a command: Press any key to continue . . . 

@@ -1,0 +1,27 @@
+mediaFile.txt
+patronFile.txt
+1
+ABook 16
+Patron 10
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+3
+2
+4
+6
+3
+2
+4
+7
